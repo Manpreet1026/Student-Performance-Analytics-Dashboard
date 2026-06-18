@@ -52,6 +52,10 @@ The project analyzes:
 
 ---
 
+## Dashboard Preview
+
+![Student Performance Dashboard](https://public.tableau.com/views/StudentPerformanceDashboard_17740696678680/StudentPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Tableau Dashboard
 
 [View Interactive Dashboard](https://public.tableau.com/views/StudentPerformanceDashboard_17740696678680/StudentPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
