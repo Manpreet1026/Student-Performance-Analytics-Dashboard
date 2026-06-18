@@ -54,7 +54,7 @@ The project analyzes:
 
 ## Dashboard Preview
 
-![Student Performance Dashboard](<img width="1703" height="888" alt="image" src="https://github.com/user-attachments/assets/fc340590-02d0-4b3a-8db0-b61bc23377ea" />
+[Student Performance Dashboard]<img width="1703" height="888" alt="image" src="https://github.com/user-attachments/assets/fc340590-02d0-4b3a-8db0-b61bc23377ea" />
 
 
 ## Tableau Dashboard
